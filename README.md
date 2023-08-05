@@ -1,6 +1,6 @@
 # InspireMe
 
-InspireMe is a simple ramdon quote generator app, that was created as part of my knowledge expansion steps towards Android development. 
+InspireMe is a simple random quote generator app, that was created as part of my knowledge expansion steps towards Android development. 
 From the design for UI to all coding, everything was thought and done by myself, without following any tutorials.
 
 
