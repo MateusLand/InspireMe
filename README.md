@@ -6,7 +6,7 @@ From the design for UI to all coding, everything was thought and done by myself,
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/image1.png" width="260">&emsp;<img src="/results/image2.png" width="260">&emsp;<img src="/results/image3.png" width="260">
+<img src="/app/results/login_screen.png" width="260">&emsp;<img src="/app/results/generate_quote_screen.png" width="260">&emsp;<img src="/app/results/quote_screen.png" width="260">
 
 ## Knowledge Stack
 * Kotlin
