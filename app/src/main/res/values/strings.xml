@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InspireMe</string>
+    <string name="author_placeholder" />
+    <string name="hello">Hello!</string>
+    <string name="ready_for_some_inspirational_quotes">Ready for some inspirational quotes?</string>
+    <string name="let_s_go">Let\'s Go</string>
+    <string name="click_below_to_generate_a_quote">Click below to generate a quote</string>
+    <string name="generate_quote">Generate Quote</string>
+</resources>
